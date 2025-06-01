@@ -26,7 +26,7 @@ def dms_a_dd():
 
 # Crear ventana
 ventana = tk.Tk()
-ventana.title("Conversor DD <-> DMS")
+ventana.title("Conversor DD <-> DMS por Saiyajin2juan")
 ventana.geometry("400x300")
 
 # Sección DD a DMS
